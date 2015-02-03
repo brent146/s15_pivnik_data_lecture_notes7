@@ -5,5 +5,5 @@ Controllers - used to manage data for some portion of a page (while being displa
 Directive - directives are ubiquitous and angluar, primary use is to allow Angular to integrate into HTML
 in a natural way
          
-          - can also be used to create reusable components that combine controllers 
+         - can also be used to create reusable components that combine controllers 
 
